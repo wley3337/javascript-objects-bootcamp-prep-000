@@ -3,7 +3,7 @@ var playlist = {};
 //create a function updatePlaylist that takes 3 peramiters: playlist, artist name, and song title should add the values to playlist, should return the playlist. 
 
 function updatePlaylist (oldPlaylist, artistName, songTitle){
-  var playlist = {oldPlaylist, [artistName: songTitle];
+  var playlist = {oldPlaylist, [artistName: songTitle]};
   return playlist;
 }
 
