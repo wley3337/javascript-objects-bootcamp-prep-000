@@ -1,4 +1,4 @@
-var playlist = {};
+var playlist = { Envogue : 'Free Your Mind' };
 //the problem with the key being artist name is that you can only have one song by each artist. 
 
 //create a function updatePlaylist that takes 3 peramiters: playlist, artist name, and song title should add the values to playlist, should return the playlist. 
